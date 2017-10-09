@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="com.org.ishir.test.topNavigationMenuValidation">
+        <methods>
+          <include name="Validate_LetsTalk"/>
+          <include name="Validate_SocialMediaIcons"/>
+          <include name="close_Test_Session"/>
+          <include name="Validate_PricingTab"/>
+          <include name="Validate_DynamicPanel"/>
+          <include name="Validate_DownloadBtn"/>
+          <include name="launchTheApplication"/>
+          <include name="Start_Test_Session"/>
+          <include name="Validate_Company_Link"/>
+          <include name="handleTestMethodName"/>
+          <include name="Validate_ServicesTab"/>
+        </methods>
+      </class> <!-- com.org.ishir.test.topNavigationMenuValidation -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

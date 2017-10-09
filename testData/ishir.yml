@@ -1,0 +1,16 @@
+baseUrl: http://www.ishirqa.com/
+validationTextForCompanyTag: Why ISHIR QA?
+facebookValidation: facebook
+twitterValidation: ISHIR (@ISHIR) | Twitter
+linkedInValidation: Keep up with ISHIR
+gPlusValidation: ISHIR - Google+
+dynamicPage1: IT IS ALREADY TOO LATE.
+dynamicPage2: ENGAGEMENTS
+dynamicPage3: SOFTWARE TESTING TEAM
+dynamicPage4: SOFTWARE TESTING TEAM
+pricing: SOFTWARE TESTING
+services: SERVICES
+UrlVerification: http://www.ishirqa.com/img/ISHIR_CaseStudy_IndependentTesting.pdf
+SubmitLetsTalk: Our representative will contact you soon.
+resultPage:
+  resultText: results

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite  verbose="0" name="Ishirqa test automation suit">
+     <test name="Test_01_topNavigation" preserve-order="true">
+		<classes>
+			<class name="com.org.ishir.test.topNavigationMenuValidation"></class>
+		</classes>
+	</test>
+	<test name="Test_02_Assignment_database" preserve-order="true">
+		<classes >
+			<class name="com.org.ishir.test.socialNetworkValidation" ></class>
+		</classes> 
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
